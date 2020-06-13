@@ -1,280 +1,200 @@
 
-# <a></a><a></a>目录
+# <a></a><a></a>[推荐几个很实用的编程网站](https://www.cnblogs.com/wdh1995/p/6843525.html)
 
-[1、搜索引擎](#1%E3%80%81%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E)
+# <a></a><a></a>国内：
 
-[2、PPT](#2%E3%80%81PPT)
+（1）萌码  
 
-[3、图片操作](#3%E3%80%81%E5%9B%BE%E7%89%87%E6%93%8D%E4%BD%9C)
+适合初学者的学习的在线编程学习网站
 
-[4、文件共享](#4%E3%80%81%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB)
+1、在线开发环境
 
-[5、应届生招聘](#5%E3%80%81%E5%BA%94%E5%B1%8A%E7%94%9F%E6%8B%9B%E8%81%98)
+在萌码学习，用户无需配置编程环境，所有学习和操作在网页中均能实现。
 
-[6、程序员面试题库](#6%E3%80%81%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93)
+2、互动式学习
 
-[7、办公、开发软件](#7%E3%80%81%E5%8A%9E%E5%85%AC%E3%80%81%E5%BC%80%E5%8F%91%E8%BD%AF%E4%BB%B6)
+“互动式”的教学过程如同老师手把手教学，消除了用户学习过程中的干扰因素；同时，网站还将理论与实践融为一体，用户能够一边学习一边进行实际操作，掌握知识点的同时便能实践，从而加深了学习记忆。通过这种人机交互，就算是最零基础的 “小白” 用户也能搞定。
 
-[8、高清图片、视频素材网站 ](#8%E3%80%81%E9%AB%98%E6%B8%85%E5%9B%BE%E7%89%87%E3%80%81%E8%A7%86%E9%A2%91%E7%B4%A0%E6%9D%90%E7%BD%91%E7%AB%99%C2%A0)
+3、时光机
 
-[9、项目开源](#9%E3%80%81%E9%A1%B9%E7%9B%AE%E5%BC%80%E6%BA%90)
+“时光机” 功能类似程序员们 debug 的过程，它能让用户回放每一个编程步骤，看每一步的程序运行过程和结果，并以图形化方式显示，这样用户可以清晰地理解每一步的含义，并找出代码出错的地方进行修正，从而避免在未来的编程过程中再犯类似的错误。
 
-[10、算法](#10%E3%80%81%E7%AE%97%E6%B3%95)
+![](https://images2015.cnblogs.com/blog/1040464/201705/1040464-20170511235330957-783612508.png)
 
-[11、在线工具宝典大全](#10%E3%80%81%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7%E5%AE%9D%E5%85%B8%E5%A4%A7%E5%85%A8)
+（2）慕课网  
 
-[12、休闲](#12%E3%80%81%E4%BC%91%E9%97%B2)
+垂直的互联网 IT 技能免费学习网站。以独家视频教程、在线编程工具、学习计划、问答社区为核心特色。在这里，你可以找到最好的互联网技术牛人，也可以通过免费的在线公开视频课程学习国内领先的互联网 IT 技术。
 
-* * *
+慕课网课程涵盖前端开发、PHP、Html5、Android、iOS、Swift 等 IT 前沿技术语言，包括基础课程、实用案例、高级分享三大类型，适合不同阶段的学习人群。以纯干货、短视频的形式为平台特点，为在校学生、职场白领提供了一个迅速提升技能、共同分享进步的学习平台。
 
-程序员开发需要具备良好的信息检索能力，为了备忘（收藏夹真是满了），将开发过程中常用的网站进行整理。
+![](https://images2015.cnblogs.com/blog/1040464/201705/1040464-20170511235358847-54681896.png)
 
-# <a></a><a></a>1、搜索引擎
+（3）全国最大中文 IT 社区  
 
-## <a></a><a></a>**1.1、秘迹搜索**
+国内的程序员入门级网站，内容很多很杂，包括论坛、资源下载、博客、各种资讯等等。经常只在这个网站找到稳定的资源下载。攒积分要从娃娃抓起啊，不要到了要下载的时候才发现分不够。。。
 
-一款无敌有良心、无敌安全的搜索引擎，不会收集私人信息，保护私隐，没有 Cookie，并且秘迹搜索聚合了百度、360、Bing、搜狗等搜索结果。
+![](https://images2015.cnblogs.com/blog/1040464/201705/1040464-20170511235419426-922319301.png)
 
-![](https://img-blog.csdnimg.cn/20190829095508389.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM4MTA2OTIz,size_16,color_FFFFFF,t_70)
+（4）开源中国社区
 
-网站：[https://mijisou.com](https://mijisou.com)
+ 国内最好的开源社区，在这里讨论问题的氛围挺不错的。创始人红薯也很热心，更新很即时，经常看到新出的开源项目在这里有翻译介绍。
 
-## <a></a><a></a>**1.2、小白盘**
+![](https://images2015.cnblogs.com/blog/1040464/201705/1040464-20170511235444051-1537681455.png)
 
-度盘资源搜索的网站，能够搜索电影、电视剧、小说、音乐等资源（**注意：评论区很多小伙伴说小白盘有毒，我用谷歌浏览器搜索过几次并无大碍，请慎用！**）
+（6）极客标签  
 
-![](https://img-blog.csdnimg.cn/20190829095422704.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM4MTA2OTIz,size_16,color_FFFFFF,t_70)
+2014 年已经不应该是学生想要学 IT 就一定要忍受这种折磨的时代，就以网页编程教学来说，我们完全可以通过一些更新，更加直观的技术来编制新的学习方式。极客标签就是这样的一个产品——一个在线 Web 编程知识学习和分享的平台。
 
-网站：[https://www.xiaobaipan.com](https://www.xiaobaipan.com)
+从知识学习方面，极客标签是国内唯一使用代码录制和回放的方式来为用户提供 Web 编程教育服务的学习平台，也是国内为数不多的不基于第三方，由网站运营方和注册用户提供精华教学内容的公开课平台；从知识分享方面，极客标签也是目前专精于网页前端知识，稍微对其他相关的网络编程知识进行辐射的极客社交社区。
 
-## <a></a><a></a>**1.3、** **DogeDoge 搜索**
+![](https://images2015.cnblogs.com/blog/1040464/201705/1040464-20170511235507144-1102993879.png)
 
-DogeDoge 搜索，中文名多吉搜索，一个绝赞的民间高手开发的搜索引擎，传说完全可以替代百度搜索**，**百度首页几乎都是广告，而 DogeDoge 搜索一个广告都没有，搜索答案侧重于知乎、博客园、CSDN 等，实在良心，搜索结果和谷歌差不多，非常适合那些无法科学上网的朋友。
+（7）国内版的 stackoverflow，90 后的作品，已经积累了不少中文问答，人气还有待提高。
 
-![](https://img-blog.csdnimg.cn/20191011132627231.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9oYW5kc29tZS1tYW4uYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
+![](https://images2015.cnblogs.com/blog/1040464/201705/1040464-20170511235534957-1234483311.png)
 
-网站：[https://www.dogedoge.com/](https://www.dogedoge.com/)
+# <a></a><a></a>国外：
 
-## <a></a><a></a>**1.4、**GitLogs
+（1）codecademy 
 
-GitLogs 是 GitHub 网站的内容搜索引擎，可以帮助工程师们快速的找到相关的项目，同时也提供最新的开发项目、开发新闻、相关主题推荐等资源，支持邮箱订阅文章，每天都可以收到 GitHub 网站上的最新内容。
+在线教育现在有很多模式，最有代表性的就是编程学习网站 Codecademy。Codecademy 并没有任何老师来授课，全程都是依靠程序的反馈和提示教学。Codecademy 建立的编程课，应该是现在世界上最有趣，体验最好的编程课，Codecademy 学习向导功能十分强大，让用户如通关游戏一样去解决各类问题，用户可以自主地去完成各种教学任务。
 
-![](https://img-blog.csdnimg.cn/20191027201616537.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9oYW5kc29tZS1tYW4uYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
+![](https://images2015.cnblogs.com/blog/1040464/201705/1040464-20170511235621519-385178284.png)
 
-网站：[https://www.gitlogs.com/](https://www.gitlogs.com/) 
+（2）stackoverflow  
 
-# <a></a><a></a>2、PPT
+有干货的地方。代码遇到相关问题经常被导到这个网站去，回答质量很高，排版简洁清晰。我现在遇到问题经常会搜索词后面加一个词 "stackoverflow"，敲回车的同时常常要骂一下这个创始人起个名字咋那么长.....
 
-## <a></a><a></a>**2.1、优品 PPT**
+![](https://images2015.cnblogs.com/blog/1040464/201705/1040464-20170511235638785-579817155.png)
 
-高品质免费 PPT 模板下载网站，比第一 PPT 质量高很多。
+（3）github  
 
-![](https://img-blog.csdnimg.cn/20190829095329397.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM4MTA2OTIz,size_16,color_FFFFFF,t_70)
+最大的开源中心，项目五花八门，从华贵绚丽的界面到低调实用的小类库，应有尽有。需要睁大眼睛慢慢挑，适合英语好的。Ruby 和 Javascript 的项目尤其多。
 
-网站：[http://www.ypppt.com](http://www.ypppt.com)
+![](https://images2015.cnblogs.com/blog/1040464/201705/1040464-20170511235659144-1048679400.png)
 
-# <a></a><a></a>3、图片操作
+（4）codecanyou  
 
-## <a></a><a></a>**3.1、图片无限变大**
+初次看到这个网站，小伙伴们表示都惊呆了。原来代码也可以放在网上卖的？！！ 很多 coder 上传了各种代码，每个代码都明码标价。看了下销售排行，有的 19 刀的卖了 3 万多份，额 di 神啊。可以看到代码的演示效果，真的很漂亮。代码以 php、wordpress 主题、Javascript、css 为主，偏前台。
 
-让你的图片无损放大，放大，再放大！只需要稍稍处理一下就可达到意想不到的效果。
+![](https://images2015.cnblogs.com/blog/1040464/201705/1040464-20170511235717472-2115178682.png)
 
-![](https://img-blog.csdnimg.cn/20190829095211374.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM4MTA2OTIz,size_16,color_FFFFFF,t_70)
+# <a></a><a></a>可以免费自学编程的 12 个网站：
 
-网站：[http://bigjpg.com/zh](http://bigjpg.com/zh)
+![](https://images2015.cnblogs.com/blog/1040464/201705/1040464-20170512000716363-856875541.png)
 
-## <a></a><a></a>**3.2、**waifu2x 无损放大图片
+1.[Codecademy](http://www.codecademy.com/)
 
-waifu2x 是一位来自日本的开发者所开源的项目，该项目利用人工智能深度卷积神经网络技术来无损放大图片，堪称是一款图片放大神器。一般图片在放大后可能会出现边界锯齿、线条模糊等问题，而 waifu2x 的算法对此提供了非常好的图片拉伸、降噪、填补机制，使得放大前后的图片给人观感基本一致。
+### <a></a><a></a>[https://www.codecademy.com/](https://www.codecademy.com/)
 
-![](https://img-blog.csdnimg.cn/2019100314550430.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9oYW5kc29tZS1tYW4uYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
+### <a></a><a></a>[https://www.codecademy.com/zh/](https://www.codecademy.com/zh/)
 
-网站：[http://waifu2x.udp.jp/index.zh-CN.html](http://waifu2x.udp.jp/index.zh-CN.html)       GitHub 源码：[https://github.com/nagadomi/waifu2x](https://github.com/nagadomi/waifu2x)
+其中，Codecademy 是最受欢迎的免费编程学习网站之一。事实上，已经有超过 2400 万人通过这家公司的教育模式学会了编程。Codecademy 开设的课程有 HTML&CSS，JavaScript，jQuery 的，PHP，Python 和 Ruby。
 
-## <a></a><a></a>**3.3、**Remove Image Background 照片抠图和证件照换底色
+2.[Coursera](https://www.coursera.org/courses?query=programming)
 
-由 byteq 开发人员 Benjamin Groessing 所开发的 remove.bg 是一款基于 Python、Ruby 和深度学习的抠图工具，它通过 AI 技术自动识别前景层，然后将之与背景层分离开来。网站目前免费开放，无论你是专业设计师还是刚入行的运营小白，都可以上传照片实现自动抠图，免去选择、标记等一系列繁琐的常规操作。真是照片抠图和证件照换底色的绝佳利器。
+Coursera 成立于 2012 年，如今已经成长为一个主要以营利为目的的技术教育公司，现提供来自 119 家机构的超过 1000 门课程。如果你想要获得证书，可能需要为一定的课程付费，这里也有一些来自不同大学的免费编程课程，如华盛顿大学，斯坦福大学，多伦多大学和范德比尔特大学等。
 
-![](https://img-blog.csdnimg.cn/20191004184717714.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9oYW5kc29tZS1tYW4uYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
+3.[edX](https://www.edx.org/)
 
-网站：[https://www.remove.bg/](https://www.remove.bg/)      Python 代码实现：[https://handsome-man.blog.csdn.net/article/details/102025059](https://handsome-man.blog.csdn.net/article/details/102025059)
+edX 是另一个领先的在线学习平台，重点是它不是以营利为目的，而是开源的。edX 是由美国哈佛大学和麻省理工学院于 2012 年联合创办的，所以你将会在这里学习到先进的技术和理论。如今，edX 已涵盖了 60 所学校。此外在这里，你应该不会错过哈佛大学的计算机科学导论的，免费的哦。
 
-## <a></a><a></a>**3.4、**稿定设计
+4.[Udemy](https://www.udemy.com/)
 
-稿定设计是一款多场景商业视觉在线设计平台，提供操作简单、功能强大的在线服务，抠图简单高效，支持在线 PS、人工智能抠图和证件换背景等操作。
+Udemy 成立于 2010 年，是一个在线学习平台，可以帮助你改善或学习工作技能。虽然有部分课程需要付费，但也有大量的免费编程学习课程，通过视频讲授。
 
-![](https://img-blog.csdnimg.cn/20191205123916246.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9oYW5kc29tZS1tYW4uYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
+5.[aGupieWare](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
 
-网站：[https://www.uupoop.com/](https://www.uupoop.com/) 
+一个独立 APP 开发者从美国的一些领先机构调查了计算机科学程序，然后基于斯坦福大学，麻省理工学院，卡耐基梅隆大学伯克利分校和哥伦比亚大学提供的免费课程，它创建了一个类似的课程。该程序分为 15 个课程：3 个入门课程，7 门核心课程和 5 个选修课程。
 
-## <a></a><a></a>**3.5、**TinyPNG
+对有潜力的程序员来说，这简直是一个完美的入门程序。（本段感觉译的不是很好，有其他见解还请赐教~）
 
-免费的在线图片压缩工具，压缩率高，无损画质，直接拖拽使用，独特且强悍的 JavaScript 算法，能极速压缩 80% 的图片大小，而不损害其质量。
+6.[GitHub](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development)
 
-![](https://img-blog.csdnimg.cn/20191027202338817.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9oYW5kc29tZS1tYW4uYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
+这个我想大多数开发者都知道就不多说了，作为开源代码库以及版本控制系统，Github 拥有 140 多万开发者用户。
 
-网站：[https://tinypng.com/](https://tinypng.com/)
+7.MIT Open Courseware
 
-## <a></a><a></a>**3.6、**SmartResize
+如果你已经学过基础知识，并向更深入的层次探索，比如探究背后的编码理论等，麻省理工学院提供了包括如计算机科学导论，Java 编程介绍和 C 语言编程等免费课件的网站，值得好好利用一下。
 
-基于 JavaScript+HTML5 编写的一个批量裁剪缩放图片神器（适合简单的人工智能图像数据预处理）。
+8.Hack.pledge()
 
-![](https://img-blog.csdnimg.cn/20191027202813832.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9oYW5kc29tZS1tYW4uYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
+这是一个开发者社区，其中聚集了一些知名度比较高的开发者，如 Bram Cohen，BitTorrent 的创始人。在那里，你可以从一些大牛那里学习到一些编程技巧。
 
-网站：[https://www.smartresize.com/zh-cn](https://www.smartresize.com/zh-cn) 
+9.[Code Avengers](https://www.codeavengers.com/)
 
-## <a></a><a></a>**3.7、GIF 工具之家**
+Code Avengers 提供了很多有趣的和互动性的程序设计课程，教你如何编写游戏，应用程序，以及如何使用 JavaScript，HTML 和 CSS 创建网站。每门课程只需要 12 个小时即可完成，并且支持英语，俄语，荷兰语，西班牙语，意大利语，土耳其语和葡萄牙语。
 
-支持图片压缩、GIF 压缩、视频转 GIF、GIF 合成以及 GIF 剪裁五大功能。
+10.[Khan Academy](https://www.khanacademy.org/)
 
-![](https://img-blog.csdnimg.cn/20200305124753825.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM4MTA2OTIz,size_16,color_FFFFFF,t_70)
+Khan Academy 由教育家萨尔曼汗创建于 2006 年，是其免费在线学习机构之一。这里提供一步一步的视频教程，你可以在这里学习如何使用 JavaScript 和 ProcessingJS 编写动画，游戏等，或者学习如何使用 HTML 和 CSS 创建网页。
 
-网站：[https://tool.gifhome.com/](https://tool.gifhome.com/)
+11.Free Code Camp
 
-# <a></a><a></a>3.8、图片助手
+在这里，你可以学习 HTML5，CSS3，JavaScript，数据库，DevTools，Node.js，Angular.js 和 Agile 的知识。你甚至免费创建自己的应用，以锻炼自己的编程技巧。总之，在这里你可以学习到真正的技能，并且对你解决实际中的问题十分有帮助。
 
-一款 Chrome 浏览器中用于嗅探、分析网页图片、图片筛选、下载等功能的扩展网页插件程序，安装插件之后，就会出现在浏览器上，一次性可以下载几百张图片素材。
+12.HTML5 Rocks
 
-![](https://img-blog.csdnimg.cn/20200305222424654.gif)
+为对抗苹果的 HTML 5，谷歌于 2010 年推出该项目。该网站提供了大量的教程，资源以及最新的 HTML5 更新。它是开源的，因此开发人员可以尽情使用 HTML5 代码。由于这比大多数课程都要先进，因此在这里你肯定会比没来之前获得更多的知识和经验。
 
-网站：[http://www.pullywood.com/ImageAssistant/](http://www.pullywood.com/ImageAssistant/) 
+![](https://images2015.cnblogs.com/blog/1040464/201705/1040464-20170512000859551-1238914629.png)
 
-# <a></a><a></a>4、文件共享
+# <a></a><a></a>[10 个值得推荐的学习编程的网站](http://www.cnblogs.com/cherry0327/p/5590884.html)
 
-## <a></a><a></a>4.1、拷贝兔
+## <a></a><a></a>1. [**Livecoding.tv**](https://www.livecoding.tv/)
 
-拷贝兔是款跨平台文件传输工具，能做到不同设备间文件或文本的临时性迅速分享的应用，支持 Windows、Mac、Linux、iOS、Android 平台互传；在线使用，用完即走。比百度网盘方便多了。
+这个网站是在 2015 年上线的，是一个为全球优秀程序员提供在线实时交流的社交平台。会员可以在平台上直播自己编写代码的过程，还可以与其他人交流互动，提出问题，寻求别人的帮助。利用互联网，实现远程学习、工作、合作、聘用、社交等多种行为的无缝互动。 据说网站是由一个美国和一个英国的程序员联合开发的，起初他们建立这个网站只是出于对编程的热爱，希望能让更多人有一个共同学习编程和交流的地方。不过网站上线不久，就获得了投资商的资助。目前网站的用户数量已超过了 15 万人。他们来自全球 194 个国家和地区，提供 35 种编程语言和 3000 多个产品。“24 小时直播编程” 是这个网站最大的特色。也就是说，无论你什么时候访问这个网站，都会看到世界各地的程序员在直播编码。实时直播和在线交流让编程的过程变得真实，生动而直观。如果你是初学者，你可以观看别人的直播，从中学到编程知识。如果你已经是一名专业的编程人员，你也可以与你同一级别的人交流，还可以看一下那些比自己更牛的工程师是如何编码开发产品和解决编程中的一些难题的。
 
-![](https://img-blog.csdnimg.cn/20190829095116687.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM4MTA2OTIz,size_16,color_FFFFFF,t_70)
+除了看别人的直播，你自己也可以成为直播者，与别人分享你编写代码的过程。为了方便中国用户，该网站还有中文版。目前已经有不少来自中国内地、香港和台湾的程序员在平台上直播编程了。
 
-网站：[https://cp.anyknew.com](https://cp.anyknew.com)
+![](https://images2015.cnblogs.com/blog/1040464/201705/1040464-20170512001445816-1327934762.png)
 
-# <a></a><a></a>5、应届生招聘
+## <a></a><a></a>2. [Hour of Code](https://hourofcode.com/)
 
-## <a></a><a></a>5.1、应届生求职网
+这个网站的中文名叫 “一小时学编程网”，是一个介绍计算机科学的网络课程。网站创办的目的是要让所有人都有机会学习基本的编程技能。旨在鼓励每一个年轻人亲自尝试编程学习，每天花一小时学习编程。该计划自从上线以来就吸引了来自世界各地超过 500 万青年人的加入。编程一小时活动是一个全球性的活动，在全球 180 多个国家有数千万学生参与了这个活动。无论你是谁，身处何方，你都可以举办一个“编程一小时活动”。目前，“编程一小时活动” 的课程支持的语言超过 30 种，参加这个活动的学生完全不需要经验。因此，这个网站很适合没有任何基础，但热爱编程的人。如果你具备一定的经验和能力，并且想帮助别人学习编程，你不妨试一下申请成为该网站的教程合作伙伴。
 
-为大学生提供全方位的求职服务，提供最全、最新、最准确的校园宣讲、全职招聘、兼职实习、知名企业校园招聘、现场招聘会等信息，并且为大学生提供针对性的求职就业指导。
+![](https://images2015.cnblogs.com/blog/1040464/201705/1040464-20170512001514582-549637227.png)
 
-![](https://img-blog.csdnimg.cn/20190829095803534.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM4MTA2OTIz,size_16,color_FFFFFF,t_70)
+## <a></a><a></a>3. [W3School](http://www.w3school.com.cn/)
 
-网站：[http://s.yingjiesheng.com/](http://s.yingjiesheng.com/)
+w3school 在线教程是一个专门面向网站开发者的教育平台。你可以在这里找到你所需要的所有的网站建设教程。从基础的 HTML 到 XHTML，乃至进阶的 XML、SQL、数据库、多媒体和 WAP，所有资源都是免费的！
 
-# <a></a><a></a>6、程序员面试题库
+![](https://images2015.cnblogs.com/blog/1040464/201705/1040464-20170512001545363-2071484282.png)
 
-## <a></a><a></a>6.1、LeetCode（力扣）
+## <a></a><a></a>[4\. 脚本之家](http://www.jb51.net/)
 
-估计 leetcode（力扣）大家都很熟悉了，都被推荐烂了，很多国内外的程序员在上面刷题，难度从 Easy、Medium 至 Hard 都有，据说很多面试官都会从中挑选各种题目，号称大厂的筛码工。
+脚本之家是国内专业的网站建设资源、脚本编程学习类网站，提供 asp、php、asp.net、javascript、jquery、vbscript、dos 批处理、网页制作、网络编程、网站建设等编程资料。
 
-![](https://img-blog.csdnimg.cn/20190829100245742.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM4MTA2OTIz,size_16,color_FFFFFF,t_70)
+## <a></a><a></a>5. [Free Code Camp](http://freecodecamp.com/)
 
-网站：[https://leetcode-cn.com/](https://leetcode-cn.com/)
+免费编程学院可以让你免费学习编程，并且可以为公益组织提供自己的服务。你可以在社区聊天室中得到实时协助，不管是在 PC 端还是移动端上都可以随时学习。目前支持的编程语言包括：HTML5、CSS3、JavaScript、Databases、Git & GitHub、Node.js、React.js、D3.js。该社区已拥有超过 30 万名开发者会员。不过，目前该网站只有英文版的，对于英语能力不足的中国用户，可能会有些不方便。
 
-## <a></a><a></a>6.2、**hihoCoder**
+![](https://images2015.cnblogs.com/blog/1040464/201705/1040464-20170512001610379-403486089.png)
 
-网站的技术团队来自于原北大 POJ 的开发团队，至于 POJ 会在后面的篇章中介绍，反正膜拜就完事了。一些知名的大厂比如微软、百度、腾讯、网易等会在上面举办在线编程比赛，风格倒是和 ACM 比赛类似。hihoCoder 每周有周赛，每月有月赛。周赛是一道题，题目比较难但是极有意思，可以很好的拓宽自己的解题思路，月赛就更厉害了，题目均出自北大等一流高校玩 ACM 的菊苣出题，通过这个的检验可以迅速定位到自己真实的水平，同时了解自身在解决问题过程中的不足。
+## <a></a><a></a>6. [Codecademy](https://www.codecademy.com/)
 
-![](https://img-blog.csdnimg.cn/20191207174223842.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9oYW5kc29tZS1tYW4uYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
+Codecademy 为用户提供了一种学习编程的新方式，它是一种基于网络的交互式编程教程，手把手地帮助你了解 JavaScript 的一些基本原理，号称是 “学习编程最简单的方法”。此外，你还可以学习多种流行的编程语言。目前网站的注册用户达到 2500 万人。美中不足的是，目前网站只有英文版的。
 
-网站：[https://hihocoder.com/](https://hihocoder.com/)
+![](https://images2015.cnblogs.com/blog/1040464/201705/1040464-20170512001631066-132400816.png)
 
-## <a></a><a></a>6.3、牛客网
+## <a></a><a></a>[7\. Stack Overflow](http://stackoverflow.com/)
 
-牛客网作为国内内容超级丰富的 IT 题库，各种东西看的我眼花缭乱，题库 + 面试 + 学习 + 求职 + 讨论 360 度无死角服务，堪称 "互联网求职神器"。它好就好在不只是一个刷题的平台，还是一个交流学习的平台，发个问题贴总有热心的大佬帮助。
+这个网站相信大家都很熟悉了，这是一个为程序员和工程师提供技术交流和学习的社区。目前该平台拥有 470 万名开发者。无论你在开发设计时遇到什么问题，都可以在网站上提出来，你会获得很有帮助的答案。
 
-![](https://img-blog.csdnimg.cn/20191207174639224.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9oYW5kc29tZS1tYW4uYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
+![](https://images2015.cnblogs.com/blog/1040464/201705/1040464-20170512001649691-792511515.png)
 
-网站：[https://www.nowcoder.com/](https://www.nowcoder.com/) 
+## <a></a><a></a>[8.51CTO](http://www.51cto.com/)
 
-# <a></a><a></a>7、办公、开发软件
+51CTO 是中国领先的 IT 技术网站，它是一个为 CTO、IT 技术经理、系统工程师、网络工程师、安全工程师、数据库工程师、网络管理员、开发工程师、项目管理人员等 IT 技术人员搭建的互动媒体平台。可以在这里找到很多实用的技术文档、培训教材等资料。
 
-## <a></a><a></a>7.1、我爱分享网
+## <a></a><a></a>9. [PHP100 中文网](http://www.php100.com/)
 
-分享各种常用软件安装包（配套破解软件），安装教程和自学视频，让小伙伴即时获取最新的软件，软件无忧，理工科必备利器！
+PHP100 中文网是一个为互联网开发者提供的专业技术门户网站。它主要为用户提供 PHP 原创视频教程、PHP 开发工具、PHP 学习社区等服务。
 
-![](https://img-blog.csdnimg.cn/20190906124652911.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9oYW5kc29tZS1tYW4uYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
+## <a></a><a></a>10. [chinaUnix.net](http://www.chinaunix.net/)
 
-网站：[http://www.zhanshaoyi.com/rjxz.html](http://www.zhanshaoyi.com/rjxz.html)
+chinaUnix.net 是中国最大的 Linux/Unix 技术社区网站，提供交流程序开发, 数据库, 存储备份, 服务器技术, 网络安全等技术, 并提供 IT 人才招聘, 软件下载, BLOG,IT 培训等服务。
 
-# <a></a><a></a>8、高清图片、视频素材网站 
+## <a></a><a></a>11. [http://www.fenby.com/](http://www.fenby.com/)
 
-整理了一份实用性爆表的表格图像、视频、矢量…… 共 35 个网站，表中含有网站简介和素材类型，做 PPT 必备啊~
-
-![](https://img-blog.csdnimg.cn/20190907100742907.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9oYW5kc29tZS1tYW4uYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
-
-关注公众号，发送关键字：**素材表格**，获取资源。
-
-# <a></a><a></a>9、项目开源
-
-## <a></a><a></a>9.1、GitHub
-
-GitHub 是一个面向开源及私有软件项目的托管平台，因为只支持 git 作为唯一的版本库格式进行托管，故名 GitHub。
-
-作为开源代码库以及版本控制系统，Github 拥有超过 900 万开发者用户。随着越来越多的应用程序转移到了云上，Github 已经成为了管理软件开发以及发现已有代码的首选方法。（访问不稳定，经常需要翻墙）
-
-![](https://img-blog.csdnimg.cn/20190914145837320.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9oYW5kc29tZS1tYW4uYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
-
-网站：[https://github.com/](https://github.com/) 
-
-## <a></a><a></a>9.2、开源中国
-
-开源中国成立于 2008 年 8 月，是目前国内最大的开源技术社区，拥有超过 200 万会员，形成了由开源软件库、代码分享、资讯、协作翻译、码云、众包、招聘等几大模块内容，为 IT 开发者提供了一个发现、使用、并交流开源技术的平台。
-
-![](https://img-blog.csdnimg.cn/20190914145422207.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9oYW5kc29tZS1tYW4uYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
-
-网站：[https://www.oschina.net/](https://www.oschina.net/) 
-
-## <a></a><a></a>9.3、码云
-
-码云是 OSCHINA.NET 推出的代码托管平台, 支持 Git 和 SVN, 提供免费的私有仓库托管。目前已有超过 350 万的开发者选择码云。
-
-![](https://img-blog.csdnimg.cn/20190914145726985.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9oYW5kc29tZS1tYW4uYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
-
-网站：[https://gitee.com/](https://gitee.com/) 
-
-# <a></a><a></a>10、算法
-
-## <a></a><a></a>10.1、VisuAlgo
-
-VisuAlgo 是 2011 年由 Steven Halim 博士所开发，其收录了许多高级的算法比如说图的遍历这部分，除了常规的深度优先算法与广度优先算法，还设计了深度优先算法的变形以及找割点，连接桥，和有向图中寻找强连接部分的 Tarjan's 与 Kosaraju 的深度优先算法，目前网站支持中文，印尼文，日文等多语言版本。
-
-![](https://img-blog.csdnimg.cn/20191118090359308.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9oYW5kc29tZS1tYW4uYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
-
-网站：[https://visualgo.net/zh](https://visualgo.net/zh) 
-
-数据结构、算法动画演示软件：百度网盘链接：[https://pan.baidu.com/s/1GLXpfPm3txtrIA4HcxEO7g](https://pan.baidu.com/s/1GLXpfPm3txtrIA4HcxEO7g)  提取码：m5vd 
-
-# <a></a><a></a>11、在线工具宝典大全
-
-## <a></a><a></a>11.1、爱资料工具
-
-爱资料在线工具，为开发运维提供全面的在线工具箱，目前已开发工具 270 款，包含开发工具、运维工具、常用工具、SEO 站长工具等，是好用，方便的在线工具网站。
-
-![](https://img-blog.csdnimg.cn/20190914221056195.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9oYW5kc29tZS1tYW4uYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
-
-网站：[https://www.toolnb.com/](https://www.toolnb.com/) 
-
-## <a></a><a></a>11.2、菜鸟工具
-
-最大的特点是支持各种语言的在线编辑，可以在网页上运行代码。
-
-![](https://img-blog.csdnimg.cn/20190927205931850.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9oYW5kc29tZS1tYW4uYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
-
-网站：[https://c.runoob.com/](https://c.runoob.com/) 
-
-## <a></a><a></a>11.3、PDF 派
-
-20 个好用的 PDF 在线工具，包括 PDF 转换，PDF 压缩，PDF 合并等，目前没有限制。
-
-![](https://img-blog.csdnimg.cn/2020030512424328.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM4MTA2OTIz,size_16,color_FFFFFF,t_70)
-
- 网站：[https://www.pdfpai.com/](https://www.pdfpai.com/)
-
-# <a></a><a></a>12、休闲
-
-## <a></a><a></a>12.1、MyFreeMP3
-
-现在 QQ 音乐、酷我音乐等各类平台听歌、下载都是收费的，例如我喜爱的周杰伦，很多歌曲都无法免费听了，MyFreeMP3 网站支持所有音乐免费听、甚至可以直接免费下载。
-
-![](https://img-blog.csdnimg.cn/20200530211851251.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM4MTA2OTIz,size_16,color_FFFFFF,t_70)
-
-网站：[http://tool.liumingye.cn/music/?page=homePage](http://tool.liumingye.cn/music/?page=homePage)
+![](https://images2015.cnblogs.com/blog/1040464/201705/1040464-20170512001926301-1831055981.png)
